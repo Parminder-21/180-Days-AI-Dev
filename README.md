@@ -1,6 +1,6 @@
 # 🚀 180 Days of Full-Stack AI & Data Science
 
-Welcome to my journey! I am a 3rd-year AIDS Engineering student on a mission to become a High-Package Full-Stack AI Engineer. 
+Welcome to my journey! I am a 3rd-year AIDS Engineering student on a mission to become a High-Package Full-Stack AI Engineer..
 
 ## 🎯 Goal
 Build, Deploy, and Master AI models while maintaining a streak of 180 days of code.
